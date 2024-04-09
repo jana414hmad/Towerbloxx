@@ -1,3 +1,5 @@
+//eksamens project
+
 import fisica.*; 
 
   
